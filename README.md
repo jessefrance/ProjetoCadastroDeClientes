@@ -10,4 +10,4 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________
 
-Para iniciar o projeto, basta abrir o arquivo 'index.html' no navegador de sua preferência.
+Para iniciar o projeto, basta abrir o arquivo `index.html´ no navegador de sua preferência.
